@@ -11,7 +11,7 @@
 
 h1 {
   color: white;
-  font-size: 1.5em;
+  font-size: 1.8em;
   margin-top: -5px;  
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
@@ -19,7 +19,7 @@ h1 {
 }
 
 #nav-list {
-  font-size: 1.3em;
+  font-size: 1.5em;
   margin-top: 0;
   margin-bottom: 0;
   background: aliceblue;
@@ -60,14 +60,15 @@ h1 {
 	margin-bottom: 25px;
 	padding: 10px;
 }
-.dishes h3{
+.dish h3{
 	text-align: center;
 	margin-top: 10px;
 	margin-bottom: 20px;
 }
-.dishes .text {
-  clear: both;
-  padding-top: 10px;
+.dish .text {
+  	clear: both;
+  	padding-top: 10px;
+	font-size: 1.2em;
 }
 
 .dishes a {
