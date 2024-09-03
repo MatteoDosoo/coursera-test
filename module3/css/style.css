@@ -65,6 +65,11 @@ h1 {
 	margin-top: 10px;
 	margin-bottom: 20px;
 }
+.dishes .text {
+  clear: both;
+  padding-top: 10px;
+}
+
 .dishes a {
 	margin-left: auto;
 	margin-right: auto;
